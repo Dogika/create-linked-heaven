@@ -1,7 +1,6 @@
 package com.dogika.lh.group;
 
 import com.dogika.lh.LinkedHeaven;
-import com.dogika.lh.item.ModItems;
 import net.minecraft.core.component.DataComponents;
 import net.minecraft.world.item.ItemStack;
 import net.minecraft.world.item.Items;

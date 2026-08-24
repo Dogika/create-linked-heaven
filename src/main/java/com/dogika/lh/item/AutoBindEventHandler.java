@@ -3,7 +3,6 @@ package com.dogika.lh.item;
 import com.dogika.lh.LinkedHeaven;
 import com.simibubi.create.content.redstone.link.RedstoneLinkBlock;
 import net.minecraft.core.BlockPos;
-import net.minecraft.network.chat.Component;
 import net.minecraft.server.level.ServerLevel;
 import net.minecraft.server.level.ServerPlayer;
 import net.minecraft.world.InteractionHand;

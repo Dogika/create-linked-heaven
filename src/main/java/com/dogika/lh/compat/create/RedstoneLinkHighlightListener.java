@@ -1,6 +1,7 @@
 package com.dogika.lh.compat.create;
 
 import com.dogika.lh.LinkedHeaven;
+import com.dogika.lh.client.BlockGlowHighlight;
 import com.dogika.lh.item.FrequencyInterfaceItem;
 import com.dogika.lh.network.ShowGroupGlowPayload;
 import com.simibubi.create.Create;
@@ -18,8 +19,6 @@ import net.neoforged.bus.api.SubscribeEvent;
 import net.neoforged.fml.common.EventBusSubscriber;
 import net.neoforged.neoforge.event.entity.player.PlayerInteractEvent;
 import net.neoforged.neoforge.network.PacketDistributor;
-
-import com.dogika.lh.client.BlockGlowHighlight;
 
 @EventBusSubscriber(modid = LinkedHeaven.MODID)
 public final class RedstoneLinkHighlightListener {

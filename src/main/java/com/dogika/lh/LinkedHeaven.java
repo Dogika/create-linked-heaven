@@ -1,6 +1,5 @@
 package com.dogika.lh;
 
-import com.dogika.lh.compat.create.RedstoneLinkHighlightListener;
 import com.dogika.lh.group.ServerRegistryAccess;
 import com.dogika.lh.item.ModItems;
 import com.dogika.lh.network.ModNetworking;

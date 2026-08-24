@@ -24,7 +24,6 @@ import net.neoforged.neoforge.client.event.RenderLevelStageEvent;
 
 import java.util.Map;
 import java.util.OptionalDouble;
-import java.util.Random;
 import java.util.concurrent.ConcurrentHashMap;
 
 @EventBusSubscriber(modid = LinkedHeaven.MODID, value = Dist.CLIENT)
