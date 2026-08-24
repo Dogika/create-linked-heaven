@@ -1,0 +1,22 @@
+{
+
+  "item.lh.direction_link": "Direction Link",
+  "item.lh.pilot_link": "Pilot Link",
+  "item.lh.frequency_interface": "Frequency Interface",
+
+  "action.lh.bound": "Bound to group '%s'",
+  "action.lh.cleared": "Cleared - link is back on Global",
+  "action.lh.locked": "'%s' is locked by its creator",
+
+  "menu.lh.title": "Redstone Link Groups",
+  "menu.lh.name_box": "Search or name a new group",
+  "menu.lh.create": "Create Group",
+  "menu.lh.lock_new_on": "Lock: On",
+  "menu.lh.lock_new_off": "Lock: Off",
+  "menu.lh.duplicate": "A group named '%s' already exists",
+  "menu.lh.by": "by %s",
+  "menu.lh.locked": "Locked",
+  "menu.lh.unlocked": "Unlocked",
+
+  "gui.lh.node.group": "Link Group"
+}

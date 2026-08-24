@@ -1,0 +1,11 @@
+{
+  "priority": 2,
+  "sprite": "lh:banner",
+  "only_animate_on_hover": true,
+  "title": {
+    "text": "Linked Heaven",
+    "color": "0xFFFFFFFF",
+    "secondary_color": "0xFFAAAAAA",
+    "background": "0xAA000000"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "T",
+    "O",
+    "C"
+  ],
+  "key": {
+    "T": {
+      "item": "create:transmitter"
+    },
+    "O": {
+      "item": "minecraft:observer"
+    },
+    "C": {
+      "item": "minecraft:compass"
+    }
+  },
+  "result": {
+    "count": 1,
+    "id": "lh:direction_link"
+  }
+}
