@@ -13,7 +13,6 @@ public final class LinkedHeavenClient {
     }
 
     public static void syncMenu(List<GroupEntry> groups, UUID selectedGroupId, boolean openScreen) {
-        GroupListCache.update(groups);
         Minecraft mc = Minecraft.getInstance();
         if (mc.screen instanceof FrequencyInterfaceScreen existing) {
             existing.updateData(groups, selectedGroupId);
